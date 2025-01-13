@@ -6,3 +6,4 @@
 ![image](https://github.com/user-attachments/assets/fd4403bb-f05f-4348-b50f-55dea7721d40)
 
 
+$yarn install
